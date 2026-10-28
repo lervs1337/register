@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "comingercomingyouback-lgtm",
+    "email": "example@example.com"
+  },
+  "records": {
+    "CNAME": {
+      "value": "wtfcraz.netlify.app"
+    }
+  }
+}
